@@ -1,0 +1,8 @@
+
+# version: 0c6ff23035a3e313d9af399d0e5caf3503a4b186
+
+# HTTPS  hackingfordummies.github.io
+
+
+User-agent: *
+Sitemap: https://hackingfordummies.github.io/sitemap.xml
